@@ -2,14 +2,22 @@
 
 We will be create a multipage website using HTML, CSS, and Bootstrap
 
-## HTML Pages
+## Files
+### HTML Pages
 - index.html
 - javascript.html
 - css.html
 - html.html
 
-## CSS
+### CSS
 - main.css
 
-## JS
+### JS
 - main.js
+
+## Bootstrap
+Go to [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) and to all the setup.
+
+### Items we are using from boostrap
+- Navbar
+- `container` css class
